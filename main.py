@@ -5,7 +5,7 @@ import sqlite3
 
 """ ---------------------------------------------------------------------------------------------"""
 
-# Não mudar função DEF. - A função printa os dados informados no formulário diretamente no terminal
+# Não mudar função DEF. - A função printa os dados informados no formulário diretamente no terminal e cria uma base de dados SQlite
 
 def salvar_dados():
     Aceito = aceitar_var.get()
