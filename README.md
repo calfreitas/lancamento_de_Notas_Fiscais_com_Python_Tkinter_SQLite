@@ -18,7 +18,8 @@ Inclusão do valor total da nota fiscal.
 2. Certifique-se de ter o Python instalado em seu sistema.
 3. Instale a biblioteca tkinter se ainda não estiver instalada. Geralmente, ela já está incluída na instalação padrão do Python.
 4. Execute o arquivo Python `(sistema_nf.py)` no terminal ou através de um ambiente Python de sua escolha.
-5. O aplicativo abrirá uma janela com um formulário onde você pode inserir as informações da nota fiscal. Certifique-se de que todos os campos necessários sejam preenchidos corretamente antes de clicar no botão "Salvar Dados". Os dados serão armazenados em um banco de dados SQLite chamado data.db.
+5. O aplicativo abrirá uma janela com um formulário onde você pode inserir as informações da nota fiscal. Certifique-se de que todos os campos necessários sejam preenchidos corretamente antes de clicar no botão "Salvar Dados".
+**Os dados serão armazenados em um banco de dados SQLite chamado data.db.**
 
 ## Contribuição
 Se desejar contribuir para este projeto, sinta-se à vontade para abrir um problema ou enviar uma solicitação pull. Toda contribuição é bem-vinda.
